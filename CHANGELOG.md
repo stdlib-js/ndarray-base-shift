@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`4583470`](https://github.com/stdlib-js/stdlib/commit/45834700742e84b03646e769e94d498ee66c65b4) - **docs:** add note _(by Athan Reines)_
 -   [`bf71563`](https://github.com/stdlib-js/stdlib/commit/bf7156340c62ef965aaa6f08bf156d8b414f8e96) - **docs:** update example _(by Athan Reines)_
 -   [`534fbd0`](https://github.com/stdlib-js/stdlib/commit/534fbd0fab785e6e2b439cdf5966f0cbef47f570) - **feat:** add `ndarray/base/shift` [(#8118)](https://github.com/stdlib-js/stdlib/pull/8118) _(by Muhammad Haris, Athan Reines)_
 
