@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import shift from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-shift@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-base-shift/tags). For example,
+
+```javascript
 import shift from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-shift@v0.1.0-esm/index.mjs';
 ```
 
@@ -123,7 +128,7 @@ The function accepts the following arguments:
 import array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-array@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@esm/index.mjs';
 import zeroTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zero-to@esm/index.mjs';
-import shift from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-shift@v0.1.0-esm/index.mjs';
+import shift from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-shift@esm/index.mjs';
 
 // Create a linear ndarray buffer:
 var buf = zeroTo( 27 );
